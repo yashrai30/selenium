@@ -1,0 +1,21 @@
+09:24:49.587 [main]INFO  setUpTest - Searched for product on Amazon page
+09:24:55.921 [main]INFO  setUpTest - Logged in with true username values
+09:24:57.031 [main]ERROR setUpTest - Errror logging providng false username values
+11:51:27.113 [TestNG-tests-1]INFO  setUpTest - Searched for product on Amazon page
+11:51:33.174 [TestNG-tests-1]INFO  setUpTest - Logged in with true username values
+11:51:34.062 [TestNG-tests-1]ERROR setUpTest - Error logging providing false username values
+11:56:33.252 [TestNG-tests-1]INFO  setUpTest - Searched for product on Amazon page
+11:56:39.662 [TestNG-tests-1]INFO  setUpTest - Logged in with true username values
+11:56:40.767 [TestNG-tests-1]ERROR setUpTest - Error logging providing false username values
+12:46:43.241 [TestNG-tests-1]INFO  setUpTest - Searched for product on Amazon page
+12:46:52.498 [TestNG-tests-1]INFO  setUpTest - Logged in with true username values
+12:59:44.682 [TestNG-tests-1]INFO  setUpTest - Searched for product on Amazon page
+12:59:48.596 [TestNG-tests-1]INFO  setUpTest - Logged in with true username values
+13:04:22.926 [TestNG-tests-1]INFO  setUpTest - Searched for product on Amazon page
+13:04:27.704 [TestNG-tests-1]INFO  setUpTest - Logged in with true username values
+13:04:28.296 [TestNG-tests-1]INFO  setUpTest - Logged in
+13:04:28.297 [TestNG-tests-1]ERROR setUpTest - Error logging providing false username values
+13:08:21.148 [TestNG-tests-2]INFO  setUpTest - Searched for product on Amazon page
+13:08:26.553 [TestNG-tests-2]INFO  setUpTest - Logged in with true username values
+13:08:27.389 [TestNG-tests-2]INFO  setUpTest - Logged in
+13:08:27.389 [TestNG-tests-2]ERROR setUpTest - Error logging providing false username values
